@@ -1,0 +1,18 @@
+{
+  "name": "mediasocialbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c0ncentus",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/twit": "^2.2.35",
+    "discord.js": "^14.15.3",
+    "tweet": "^0.0.0",
+    "twit": "^2.2.11"
+  }
+}
